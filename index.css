@@ -1,0 +1,59 @@
+.wp-progress {
+  height: 50px !important;
+  margin-top: 80px !important;
+}
+
+.bar-wrap {
+  position: relative;
+}
+
+.degree-completion-text {
+  margin: 0 0 10px 40px;
+  color: white;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.progress-line {
+  width: 2px;
+  height: 150px;
+  position: absolute;
+  background: black;
+  top: -50px;
+  bottom: -50px;
+}
+
+.progress-sophomore-line {
+  right: 75%;
+}
+
+.progress-junior-line {
+  right: 50%;
+}
+
+.progress-senior-line {
+  right: 25%;
+}
+
+.progress-text {
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.core-section {
+  background-color: #fff;
+  border-color: #ddd;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px 4px 0 0;
+  box-shadow: none;
+  position: relative;
+  padding: 0 25px 15px;
+  margin-top: 100px;
+}
+
+.headline-subtext {
+  font-size: 15px;
+}
