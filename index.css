@@ -18,9 +18,10 @@
   width: 2px;
   height: 150px;
   position: absolute;
-  background: black;
+  /*background: black;*/
   top: -50px;
   bottom: -50px;
+  border-left-style: dotted;
 }
 
 .progress-sophomore-line {
